@@ -8,7 +8,7 @@ Script to install a MERGE Masternode on Linux VPS
 Paste this into terminal:
 
 ```
-wget https://github.com/M1chlCZ/Merge-MN-install-/blob/main/mergeMNInstall.sh && sudo bash mergeMNInstall.sh && . ~/.profile
+wget https://github.com/M1chlCZ/Merge-MN-install/blob/main/mergeMNInstall.sh && sudo bash mergeMNInstall.sh && . ~/.profile
 ```
 And follow on screen prompts.
 
